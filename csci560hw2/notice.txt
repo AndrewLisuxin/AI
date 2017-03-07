@@ -1,0 +1,30 @@
+MINIMAX
+X
+4
+100 75 50 75 100
+100 75 50 75 100
+100 75 50 75 100
+100 75 50 75 100
+100 75 50 75 100
+XOX..
+OO..O
+.....
+.....
+.....
+input.txt
+Correct output:
+C2 Raid
+XOX..
+OXX.O
+.....
+.....
+.....
+Content from your output file:
+E3 Stake
+XOX..
+OO..O
+....X
+.....
+.....
+test case not passed!
+41
