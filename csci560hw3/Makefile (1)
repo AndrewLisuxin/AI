@@ -1,0 +1,7 @@
+run:
+	g++ -g -o homework lex.yy.c yacchw3.tab.c Start.cpp CNF.cpp Storage.cpp Reason.cpp && ./homework
+
+clean:
+	rm homework output.txt
+
+
